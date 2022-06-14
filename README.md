@@ -5,7 +5,7 @@
 </p>
 
 # Darlysson Barreto Lindoso
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*IT system analyst*</sub>
 
 As a non-experienced Data Scientist, I combine analytical skills, the ability to work in team environments and attention to detail. Having spent the last few years in corporate finance, I have developed critical thinking and problem-solving skills.
 
